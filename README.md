@@ -10,7 +10,7 @@ This program displays a "Hello World" message.
 The purpose of this assignment is to display a simple "Hello World" message.
 
 <!-- {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.} -->
-Youtube Demonstration:  [Software Demo Video](http://youtube.link.goes.here)
+Youtube Demonstration:  [Software Demo Video](https://youtu.be/ZaC45Sl7I8Q)
 
 # Development Environment
 
