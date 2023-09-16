@@ -24,5 +24,6 @@ I used Python to write the program.
 
 <!-- {Make a list of websites that you found helpful in this project} -->
 * [Appsilon](https://appsilon.com/r-markdown-tips/#:~:text=You%20can%20comment%20lines%20in,This%20line%20is%20not%20commented.)
-  I used this website to learn how to make comments in markdown
-* [Web Site Name](http://url.link.goes.here)
+  I used this website to learn how to make comments in Markdown
+* [learnpython.org](https://www.learnpython.org/en/Hello,_World!#:~:text=Use%20the%20%22print%22%20function%20to,('Great%20job!'))
+  This website is for how to make print statements in Python
